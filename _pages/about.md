@@ -18,7 +18,7 @@ I am an CSE PhD sudent in [The Hong Kong University of Science and Technology (H
 * 2022.05, three papers were accepted by ICML 2022
 * 2022.03, one paper was accepted by CVPR 2022 as **ORAL** presentation
 
-# Select Publications
+# Selected Publications ([Full Publication](https://linyongver.github.io/yonglin.github.io/publications/))
 (*\* denotes equal contribution*)
 
 
