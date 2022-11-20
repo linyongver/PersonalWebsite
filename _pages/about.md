@@ -14,6 +14,9 @@ I am an CSE PhD sudent in [The Hong Kong University of Science and Technology (H
 
 # News
 * 2022.10, I have lunched a blog on Invariant Risk Minimization [here](https://zhuanlan.zhihu.com/p/567666715) (in Chinese).
+* 2022.09, one paper accepted by NeurIPS 2022
+* 2022.05, three papers accepted by ICML 2022
+* 2022.03, one paper accepted by CVPR 2022 as **ORAL** presentation
 
 # Publications
 (*\*equal contribution*)
