@@ -19,7 +19,7 @@ I am an CSE PhD sudent in [The Hong Kong University of Science and Technology (H
 * 2022.03, one paper accepted by CVPR 2022 as **ORAL** presentation
 
 # Publications
-(*\*equal contribution*)
+(*\* denotes equal contribution*)
 ## Pre-prints
 - [**Id and ood performance are sometimes inversely correlated on real-world datasets**](https://arxiv.org/pdf/2209.00613.pdf)
   <br /> Damien Teney, **Yong Lin**, Seong Joon Oh, Ehsan Abbasnejad
