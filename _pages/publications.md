@@ -6,6 +6,9 @@ author_profile: true
 ---
 (*\*equal contribution*)
 ## Pre-prints
+- [**Black-box prompt learning for pre-trained language models**](https://arxiv.org/pdf/2201.08531.pdf)
+  <br /> Shizhe Diao, Xuechun Li, **Yong Lin**, Zhichao Huang, Tong Zhang
+  <br /> In Submission
 - [**Id and ood performance are sometimes inversely correlated on real-world datasets**](https://arxiv.org/pdf/2209.00613.pdf)
   <br /> Damien Teney, **Yong Lin**, Seong Joon Oh, Ehsan Abbasnejad
   <br /> In Submission
