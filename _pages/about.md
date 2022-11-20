@@ -39,14 +39,14 @@ I am an CSE PhD sudent in [The Hong Kong University of Science and Technology (H
   <br /> [[code](https://github.com/linyongver/Bayesian-Invariant-Risk-Minmization)]
 - [**Sparse Invariant Risk Minimization**](https://proceedings.mlr.press/v162/zhou22e/zhou22e.pdf)
   <br /> Xiao Zhou\*, **Yong Lin**\*, Weizhong Zhang\*, Tong Zhang
-  <br /> *Proceedings of the 39th International Conference on MachineLearning* (ICML 2022)
+  <br /> *Proceedings of the 39th International Conference on Machine Learning* (ICML 2022)
 - [**Model Agnostic Sample Reweighting for Out-of-Distribution Learning**](https://proceedings.mlr.press/v162/zhou22d/zhou22d.pdf)
   <br /> Xiao Zhou\*, **Yong Lin**\*, Renjie Pi\*, Weizhong Zhang, Renzhe Xu, Peng Cui, Tong Zhang
-  <br /> *Proceedings of the 39th International Conference on MachineLearning* (ICML 2022)
+  <br /> *Proceedings of the 39th International Conference on Machine Learning* (ICML 2022)
   <br /> [[code](https://github.com/x-zho14/MAPLE)]
 - [**Probabilistic Bilevel Coreset Selection**](https://proceedings.mlr.press/v162/zhou22h/zhou22h.pdf)
   <br /> Xiao Zhou, Renjie Pi, Weizhong Zhang, **Yong Lin**, Zonghao Chen, Tong Zhang
-  <br /> *Proceedings of the 39th International Conference on MachineLearning* (ICML 2022)
+  <br /> *Proceedings of the 39th International Conference on Machine Learning* (ICML 2022)
 
 
 
