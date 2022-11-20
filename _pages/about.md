@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-I am an CSE PhD sudent in [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk) HKUST, supervised by Professor [Tong Zhang](http://tongzhang-ml.org/). Out of Distribution  (OOD) Generalization , Robustess of Deep Learning and Learning theory are my research interests. If you are also interested in discussing / cooperating with me on OOD, you can contact me by Email. 
+I am an CSE PhD sudent in [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk) HKUST, supervised by Professor [Tong Zhang](http://tongzhang-ml.org/). Out of Distribution  (OOD) Generalization , Robustess of Deep Learning and Learning theory are my research interests. If you are interested in discussing / cooperating with me on OOD, you can contact me by Email. 
 
 # News
 * 2022.10, I lunched a blog on Invariant Risk Minimization [here](https://zhuanlan.zhihu.com/p/567666715) (in Chinese).
