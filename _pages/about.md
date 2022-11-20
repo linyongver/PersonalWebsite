@@ -18,15 +18,9 @@ I am an CSE PhD sudent in [The Hong Kong University of Science and Technology (H
 * 2022.05, three papers were accepted by ICML 2022
 * 2022.03, one paper was accepted by CVPR 2022 as **ORAL** presentation
 
-# Publications
+# Select Publications
 (*\* denotes equal contribution*)
-## Pre-prints
-- [**Id and ood performance are sometimes inversely correlated on real-world datasets**](https://arxiv.org/pdf/2209.00613.pdf)
-  <br /> Damien Teney, **Yong Lin**, Seong Joon Oh, Ehsan Abbasnejad
-  <br /> In Submission
-- [**ZeroGen: Self-Guided High-Quality Data Generation in Efficient Zero-Shot Learning**](https://arxiv.org/pdf/2205.12679.pdf)
-  <br /> Jiahui Gao, Renjie Pi, **Yong Lin**, Hang Xu, Jiacheng Ye, Zhiyong Wu, Xiaodan Liang, Zhenguo Li, Lingpeng Kong
-  <br /> In Submission
+
 
 ## 2022
 - [**ZIN: When and How to Learn Invariance by Environment Inference?**](https://openreview.net/forum?id=pUPFRSxfACD)
@@ -44,10 +38,6 @@ I am an CSE PhD sudent in [The Hong Kong University of Science and Technology (H
   <br /> Xiao Zhou\*, **Yong Lin**\*, Renjie Pi\*, Weizhong Zhang, Renzhe Xu, Peng Cui, Tong Zhang
   <br /> *Proceedings of the 39th International Conference on Machine Learning* (ICML 2022)
   <br /> [[code](https://github.com/x-zho14/MAPLE)]
-- [**Probabilistic Bilevel Coreset Selection**](https://proceedings.mlr.press/v162/zhou22h/zhou22h.pdf)
-  <br /> Xiao Zhou, Renjie Pi, Weizhong Zhang, **Yong Lin**, Zonghao Chen, Tong Zhang
-  <br /> *Proceedings of the 39th International Conference on Machine Learning* (ICML 2022)
-
 
 
 ##  2021 and before
