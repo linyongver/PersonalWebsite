@@ -33,7 +33,7 @@ I am an CSE PhD sudent in [The Hong Kong University of Science and Technology (H
   <br /> **Yong Lin**, Shengyu Zhu, Lu Tan, Peng Cui
   <br /> *Thirty-sixth Conference on Neural Information Processing Systems* (NeurIPS 2022)
   <br /> [[code](https://github.com/linyongver/ZIN_official)]
-- [**Bayesian Invariant Risk Minimization**](https://proceedings.mlr.press/v162/zhou22d/zhou22d.pdf) (**ORAL**)
+- [**Bayesian Invariant Risk Minimization**](https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_Bayesian_Invariant_Risk_Minimization_CVPR_2022_paper.pdf) (**ORAL**)
   <br /> **Yong Lin**\*, Hanze Dong\*, Hao Wang, Tong Zhang
   <br /> *IEEE/CVF Conference on Computer Vision and Pattern Recognition*  (CVPR 2022)
   <br /> [[code](https://github.com/linyongver/Bayesian-Invariant-Risk-Minmization)]
