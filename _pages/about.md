@@ -23,7 +23,7 @@ I am an CSE PhD sudent in [The Hong Kong University of Science and Technology (H
 
 
 ## 2022
-- [**ZIN: When and How to Learn Invariance by Environment Inference?**](https://openreview.net/forum?id=pUPFRSxfACD) (**SPOTLIGHT**)
+- [**ZIN: When and How to Learn Invariance by Environment Inference?**](https://openreview.net/forum?id=pUPFRSxfACD) (<span style="color: red;">SPOTLIGHT</span>**SPOTLIGHT**)
   <br /> **Yong Lin**, Shengyu Zhu, Lu Tan, Peng Cui
   <br /> *Thirty-sixth Conference on Neural Information Processing Systems* (NeurIPS 2022)
   <br /> [[code](https://github.com/linyongver/ZIN_official)]
