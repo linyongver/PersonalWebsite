@@ -33,7 +33,7 @@ I am an CSE PhD sudent in [The Hong Kong University of Science and Technology (H
   <br /> *ICML 2022*
 - [**Model Agnostic Sample Reweighting for Out-of-Distribution Learning**](https://proceedings.mlr.press/v162/zhou22d/zhou22d.pdf)
   <br /> Xiao Zhou\*, **Yong Lin**\*, Renjie Pi\*, Weizhong Zhang, Renzhe Xu, Peng Cui, Tong Zhang
-  <br /> *ICML 2022* <br /> [[code](https://github.com/x-zho14/MAPLE)]
+  <br /> *ICML 2022*  [[code](https://github.com/x-zho14/MAPLE)]
 
 - [**An Empirical Study of Invariant Risk Minimization on Deep Models**](http://www.gatsby.ucl.ac.uk/~balaji/udl2021/accepted-papers/UDL2021-paper-044.pdf)
   <br /> **Yong Lin**\*, Qing Lian\* and Tong Zhang
