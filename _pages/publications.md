@@ -17,7 +17,7 @@ author_profile: true
 - [**A Holistic View of Noise Transition Matrix in Deep Learning and Beyond?**](https://openreview.net/forum?id=aFzaXRImWE) (**SPOTLIGHT**)
   <br /> **Yong Lin**\*, Renjie Pi\*, Weizhong Zhang, Xiaobo Xia, Jiahui Gao, Xiao Zhou, Tongliang Liu, Bo Han
   <br /> *ICLR 2023* 
-- [**ZeroGen: Self-Guided High-Quality Data Generation in Efficient Zero-Shot Learning**](https://arxiv.org/pdf/2205.12679.pdf) (**SPOTLIGHT**) (**SPOTLIGHT**)
+- [**ZeroGen: Self-Guided High-Quality Data Generation in Efficient Zero-Shot Learning**](https://arxiv.org/pdf/2205.12679.pdf)  (**SPOTLIGHT**)
   <br /> Jiahui Gao, Renjie Pi, **Yong Lin**, Hang Xu, Jiacheng Ye, Zhiyong Wu, Xiaodan Liang, Zhenguo Li, Lingpeng Kong
   <br /> *ICLR 2023* 
 
@@ -32,22 +32,19 @@ author_profile: true
 ## 2022
 - [**ZIN: When and How to Learn Invariance by Environment Inference?**](https://openreview.net/forum?id=pUPFRSxfACD)
   <br /> **Yong Lin**, Shengyu Zhu, Lu Tan, Peng Cui
-  <br /> Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS 2022)
-  <br /> [[code](https://github.com/linyongver/ZIN_official)]
+  <br /> NeurIPS 2022 [[code](https://github.com/linyongver/ZIN_official)]
 - [**Bayesian Invariant Risk Minimization**](https://proceedings.mlr.press/v162/zhou22d/zhou22d.pdf) (**ORAL**)
   <br /> **Yong Lin**\*, Hanze Dong\*, Hao Wang, Tong Zhang
-  <br /> IEEE/CVF Conference on Computer Vision and Pattern Recognition  (CVPR 2022)
-  <br /> [[code](https://github.com/linyongver/Bayesian-Invariant-Risk-Minmization)]
+  <br /> CVPR 2022 [[code](https://github.com/linyongver/Bayesian-Invariant-Risk-Minmization)]
 - [**Sparse Invariant Risk Minimization**](https://proceedings.mlr.press/v162/zhou22e/zhou22e.pdf)
   <br /> Xiao Zhou\*, **Yong Lin**\*, Weizhong Zhang\*, Tong Zhang
-  <br /> Proceedings of the 39th International Conference on MachineLearning (ICML 2022)
+  <br /> ICML 2022 
 - [**Model Agnostic Sample Reweighting for Out-of-Distribution Learning**](https://proceedings.mlr.press/v162/zhou22d/zhou22d.pdf)
   <br /> Xiao Zhou\*, **Yong Lin**\*, Renjie Pi\*, Weizhong Zhang, Renzhe Xu, Peng Cui, Tong Zhang
-  <br /> Proceedings of the 39th International Conference on MachineLearning (ICML 2022)
-  <br /> [[code](https://github.com/x-zho14/MAPLE)]
+  <br /> ICML 2022 [[code](https://github.com/x-zho14/MAPLE)]
 - [**Probabilistic Bilevel Coreset Selection**](https://proceedings.mlr.press/v162/zhou22h/zhou22h.pdf)
   <br /> Xiao Zhou, Renjie Pi, Weizhong Zhang, **Yong Lin**, Zonghao Chen, Tong Zhang
-  <br /> Proceedings of the 39th International Conference on MachineLearning (ICML 2022)
+  <br /> ICML 2022
 
 
 
