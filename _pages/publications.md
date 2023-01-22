@@ -12,20 +12,22 @@ author_profile: true
 - [**Id and ood performance are sometimes inversely correlated on real-world datasets**](https://arxiv.org/pdf/2209.00613.pdf)
   <br /> Damien Teney, **Yong Lin**, Seong Joon Oh, Ehsan Abbasnejad
   <br /> In Submission
-- [**ZeroGen: Self-Guided High-Quality Data Generation in Efficient Zero-Shot Learning**](https://arxiv.org/pdf/2205.12679.pdf)
-  <br /> Jiahui Gao, Renjie Pi, **Yong Lin**, Hang Xu, Jiacheng Ye, Zhiyong Wu, Xiaodan Liang, Zhenguo Li, Lingpeng Kong
-  <br /> In Submission
-##
-- [**A Holistic View of Noise Transition Matrix in Deep Learning and Beyond?**](https://openreview.net/forum?id=aFzaXRImWE) 
+
+## 2023
+- [**A Holistic View of Noise Transition Matrix in Deep Learning and Beyond?**](https://openreview.net/forum?id=aFzaXRImWE) (**SPOTLIGHT**)
   <br /> **Yong Lin**\*, Renjie Pi\*, Weizhong Zhang, Xiaobo Xia, Jiahui Gao, Xiao Zhou, Tongliang Liu, Bo Han
-  <br /> *ICLR 2023* (**SPOTLIGHT**)
-- [**ZeroGen: Self-Guided High-Quality Data Generation in Efficient Zero-Shot Learning**](https://arxiv.org/pdf/2205.12679.pdf) (**SPOTLIGHT**)
+  <br /> *ICLR 2023* 
+- [**ZeroGen: Self-Guided High-Quality Data Generation in Efficient Zero-Shot Learning**](https://arxiv.org/pdf/2205.12679.pdf) (**SPOTLIGHT**) (**SPOTLIGHT**)
   <br /> Jiahui Gao, Renjie Pi, **Yong Lin**, Hang Xu, Jiacheng Ye, Zhiyong Wu, Xiaodan Liang, Zhenguo Li, Lingpeng Kong
-  <br /> *ICLR 2023* (**SPOTLIGHT**)
+  <br /> *ICLR 2023* 
 
 - [**Particle-based Variational Inference with Preconditioned Functional Gradient Flow**](https://openreview.net/forum?id=6OphWWAE3cS)
   <br /> Hanze Dong, Xi Wang, **Yong Lin**, Tong Zhang
   <br /> *ICLR 2023*
+
+- [**Stable Learning via Sparse Variable Independence**](https://arxiv.org/pdf/2212.00992.pdf)
+  <br /> Han Yu, Peng Cui, Yue He, Zheyan Shen, **Yong Lin**, Renzhe Xu, Xingxuan Zhang
+  <br /> *AAAI 2023*
 
 ## 2022
 - [**ZIN: When and How to Learn Invariance by Environment Inference?**](https://openreview.net/forum?id=pUPFRSxfACD)
