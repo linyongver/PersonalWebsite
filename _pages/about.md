@@ -22,7 +22,7 @@ I am an CSE PhD sudent in [The Hong Kong University of Science and Technology (H
 # Selected Publications/[Full Publication](https://linyongver.github.io/yonglin.github.io/publications/)
 (*\* denotes equal contribution*)
 
-- **A Holistic View of Noise Transition Matrix in Deep Learning and Beyond?** (**SPOTLIGHT**)
+- [**A Holistic View of Noise Transition Matrix in Deep Learning and Beyond?**](https://openreview.net/forum?id=aFzaXRImWE) (**SPOTLIGHT**)
   <br /> **Yong Lin**\*, Renjie Pi\*, Weizhong Zhang, Xiaobo Xia, Jiahui Gao, Xiao Zhou, Tongliang Liu, Bo Han
   <br /> *ICLR 2023*
   
