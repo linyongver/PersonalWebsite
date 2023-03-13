@@ -10,9 +10,8 @@ redirect_from:
 
 # About Me
 
-I am an CSE PhD sudent in [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk) HKUST, supervised by Professor [Tong Zhang](http://tongzhang-ml.org/). My main reseach interest are machine learning algorithms and theory, including sparsity, uncertainty, invariance, causality and so on.   
+I am an CSE PhD sudent in [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk) HKUST, supervised by Professor [Tong Zhang](http://tongzhang-ml.org/). My main reseach interest are machine learning algorithms and theory, including sparsity, uncertainty, invariance, causality and so on. I am also perticularly interested in improving the robutness of machine learning models to distributional shifts (also known as the OOD problems) and its applications in computer vision (CV), large language models (LLM) and reinforcement learning (RL).   
 
-Out of Distribution  (OOD) Generalization , Robustess of Deep Learning and Learning theory are my research interests. 
 My research is generously supported by [Apple AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023) and [Hong Kong PhD fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html).
 
 If you are interested in discussing / cooperating with me, you can contact me by Email. 
