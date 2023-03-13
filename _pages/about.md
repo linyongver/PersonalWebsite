@@ -55,8 +55,9 @@ If you are interested in discussing / cooperating with me, you can contact me by
 
 
 # Selected Awards
+- [2023 Apple Scholars in AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023) Award
+- [Hong Kong PhD fellowship(HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html) Award
 - National Scholarship  * 3 (1.8%, by China’s Ministry of Education), 2010, 2011 and 2015
-- Hong Kong PhD Fellowship Scheme(HKPFS) Award
 - Outstanding Graduate of Zhejiang Province(2.5%, by Zhejiang Province’s Ministry of Education), 2013
 - Nomination for Zhu Kochen scholarship(0.5%, Highest Student Honor in Zhejiang University), 2013
 - Meritorious Winner, The Mathematical Contest in Modeling(International MCM), 2012
