@@ -10,9 +10,15 @@ redirect_from:
 
 # About Me
 
-I am an CSE PhD sudent in [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk) HKUST, supervised by Professor [Tong Zhang](http://tongzhang-ml.org/). Out of Distribution  (OOD) Generalization , Robustess of Deep Learning and Learning theory are my research interests. If you are interested in discussing / cooperating with me on OOD, you can contact me by Email. 
+I am an CSE PhD sudent in [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk) HKUST, supervised by Professor [Tong Zhang](http://tongzhang-ml.org/). My main reseach interest are machine learning algorithms and theory, including sparsity, uncertainty, invariance, causality and so on.   
+
+Out of Distribution  (OOD) Generalization , Robustess of Deep Learning and Learning theory are my research interests. 
+My research is generously supported by [Apple AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023) and [Hong Kong PhD fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html).
+
+If you are interested in discussing / cooperating with me, you can contact me by Email. 
 
 # News
+* 2023.03, I am exited to be awared by [2023 Apple Scholars in AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023).
 * 2023.01, three papers were accepted by ICLR 2023, inlcuding two **SPOTLIGHT** papers.
 * 2022.10, I lunched a blog on Invariant Risk Minimization [here](https://zhuanlan.zhihu.com/p/567666715) (in Chinese).
 * 2022.09, one paper was accepted by NeurIPS 2022 as a **SPOTLIGHT** presentation
