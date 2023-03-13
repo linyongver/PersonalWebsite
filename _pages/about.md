@@ -17,7 +17,7 @@ My research is generously supported by [Apple AI/ML PhD fellowship](https://mach
 If you are interested in discussing / cooperating with me, you can contact me by Email. 
 
 # News
-* 2023.03, I am exited to be awared by [2023 Apple Scholars in AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023).
+* 2023.03, I am exited to win the [2023 Apple Scholars in AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023) award.
 * 2023.01, three papers were accepted by ICLR 2023, inlcuding two **SPOTLIGHT** papers.
 * 2022.10, I lunched a blog on Invariant Risk Minimization [here](https://zhuanlan.zhihu.com/p/567666715) (in Chinese).
 * 2022.09, one paper was accepted by NeurIPS 2022 as a **SPOTLIGHT** presentation
