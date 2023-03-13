@@ -17,7 +17,7 @@ My research is generously supported by [Apple AI/ML PhD fellowship](https://mach
 If you are interested in discussing / cooperating with me, you can contact me by Email. 
 
 # News
-* 2023.03, I am exited to win the [2023 Apple Scholars in AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023) award.
+* 2023.03, I am exited to be an awardee of [2023 Apple Scholars in AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023).
 * 2023.01, three papers were accepted by ICLR 2023, inlcuding two **SPOTLIGHT** papers.
 * 2022.10, I lunched a blog on Invariant Risk Minimization [here](https://zhuanlan.zhihu.com/p/567666715) (in Chinese).
 * 2022.09, one paper was accepted by NeurIPS 2022 as a **SPOTLIGHT** presentation
@@ -55,12 +55,10 @@ If you are interested in discussing / cooperating with me, you can contact me by
 
 
 # Selected Awards
-- [2023 Apple Scholars in AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023) Award
+- [2023 Apple Scholars in AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023) Award (4 in Asia, 22 all over the world)
 - [Hong Kong PhD fellowship(HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html) Award
 - National Scholarship  * 3 (1.8%, by China’s Ministry of Education), 2010, 2011 and 2015
-- Outstanding Graduate of Zhejiang Province(2.5%, by Zhejiang Province’s Ministry of Education), 2013
-- Nomination for Zhu Kochen scholarship(0.5%, Highest Student Honor in Zhejiang University), 2013
-- Meritorious Winner, The Mathematical Contest in Modeling(International MCM), 2012
+- Outstanding Graduate of Zhejiang Province, 2013
 
 # Experiences
 - **The Hong Kong University of Science and Technology**
