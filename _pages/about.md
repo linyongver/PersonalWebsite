@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-I am an third-year CSE PhD sudent in [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk), supervised by Professor [Tong Zhang](http://tongzhang-ml.org/). My main reseach interests are machine learning algorithms and theories, including sparsity, uncertainty, invariance, causality and so on. I am also perticularly interested in improving the robutness of machine learning models to distributional shifts (also known as the OOD problems) and its applications in computer vision (CV), large language models (LLM) and reinforcement learning (RL).   
+I am a third-year CSE PhD sudent in [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk), supervised by Professor [Tong Zhang](http://tongzhang-ml.org/). My main reseach interests are machine learning algorithms and theories, including sparsity, uncertainty, invariance, causality and so on. I am also perticularly interested in improving the robutness of machine learning models to distributional shifts (also known as the OOD problems) and its applications in computer vision (CV), large language models (LLM) and reinforcement learning (RL).   
 
 My research is generously supported by [Apple AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023) and [Hong Kong PhD fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html).
 
