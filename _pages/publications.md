@@ -35,7 +35,7 @@ author_profile: true
   <br /> *AAAI 2023*
 
 ## 2022
-- [**ZIN: When and How to Learn Invariance by Environment Inference?**](https://openreview.net/forum?id=pUPFRSxfACD)
+- [**ZIN: When and How to Learn Invariance by Environment Inference?**](https://openreview.net/forum?id=pUPFRSxfACD) (**SPOTLIGHT**)
   <br /> **Yong Lin**, Shengyu Zhu, Lu Tan, Peng Cui
   <br /> NeurIPS 2022 [[code](https://github.com/linyongver/ZIN_official)]
 - [**Bayesian Invariant Risk Minimization**](https://proceedings.mlr.press/v162/zhou22d/zhou22d.pdf) (**ORAL**)
