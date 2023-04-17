@@ -25,7 +25,8 @@ author_profile: true
 - [**Particle-based Variational Inference with Preconditioned Functional Gradient Flow**](https://openreview.net/forum?id=6OphWWAE3cS)
   <br /> Hanze Dong, Xi Wang, **Yong Lin**, Tong Zhang
   <br /> *ICLR 2023*
-- [**Black-box prompt learning for pre-trained language models**]([https://arxiv.org/pdf/2201.08531.pdf](https://arxiv.org/pdf/2201.08531.pdf))
+  
+- [**Black-box prompt learning for pre-trained language models**](https://arxiv.org/abs/2302.12246)
   <br /> Shizhe Diao, Zhichao Huang, Ruijia Xu, Xuechun Li, **Yong Lin**, Xiao Zhou, Tong Zhang
   <br /> Transactions on Machine Learning Research (02/2023)
   
