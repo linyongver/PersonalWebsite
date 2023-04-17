@@ -7,8 +7,8 @@ author_profile: true
 (*\*equal contribution*)
 ## Pre-prints
 - [**Active Prompting with Chain-of-Thought for Large Language Models**](https://arxiv.org/abs/2302.12246)
-- <br /> Shizhe Diao, Pengcheng Wang, **Yong Lin**, Tong Zhang
-- <br /> In Submission
+ <br /> Shizhe Diao, Pengcheng Wang, **Yong Lin**, Tong Zhang
+ <br /> In Submission
 
 - [**Id and ood performance are sometimes inversely correlated on real-world datasets**](https://arxiv.org/pdf/2209.00613.pdf)
   <br /> Damien Teney, **Yong Lin**, Seong Joon Oh, Ehsan Abbasnejad
