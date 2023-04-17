@@ -6,9 +6,10 @@ author_profile: true
 ---
 (*\*equal contribution*)
 ## Pre-prints
-- [**Black-box prompt learning for pre-trained language models**](https://arxiv.org/pdf/2201.08531.pdf)
-  <br /> Shizhe Diao, Xuechun Li, **Yong Lin**, Zhichao Huang, Tong Zhang
-  <br /> In Submission
+- [**Active Prompting with Chain-of-Thought for Large Language Models**](https://arxiv.org/abs/2302.12246)
+- <br /> Shizhe Diao, Pengcheng Wang, **Yong Lin**, Tong Zhang
+- <br /> In Submission
+
 - [**Id and ood performance are sometimes inversely correlated on real-world datasets**](https://arxiv.org/pdf/2209.00613.pdf)
   <br /> Damien Teney, **Yong Lin**, Seong Joon Oh, Ehsan Abbasnejad
   <br /> In Submission
@@ -24,7 +25,10 @@ author_profile: true
 - [**Particle-based Variational Inference with Preconditioned Functional Gradient Flow**](https://openreview.net/forum?id=6OphWWAE3cS)
   <br /> Hanze Dong, Xi Wang, **Yong Lin**, Tong Zhang
   <br /> *ICLR 2023*
-
+- [**Black-box prompt learning for pre-trained language models**]([https://arxiv.org/pdf/2201.08531.pdf](https://arxiv.org/pdf/2201.08531.pdf))
+  <br /> Shizhe Diao, Zhichao Huang, Ruijia Xu, Xuechun Li, **Yong Lin**, Xiao Zhou, Tong Zhang
+  <br /> Transactions on Machine Learning Research (02/2023)
+  
 - [**Stable Learning via Sparse Variable Independence**](https://arxiv.org/pdf/2212.00992.pdf)
   <br /> Han Yu, Peng Cui, Yue He, Zheyan Shen, **Yong Lin**, Renzhe Xu, Xingxuan Zhang
   <br /> *AAAI 2023*
