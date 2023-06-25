@@ -17,7 +17,16 @@ author_profile: true
 ## 2023
 - [**A Holistic View of Noise Transition Matrix in Deep Learning and Beyond?**](https://openreview.net/forum?id=aFzaXRImWE) (**SPOTLIGHT**)
   <br /> **Yong Lin**\*, Renjie Pi\*, Weizhong Zhang, Xiaobo Xia, Jiahui Gao, Xiao Zhou, Tongliang Liu, Bo Han
-  <br /> *ICLR 2023* 
+  <br /> *ICLR 2023*
+  
+- [**Provably Invariant Learning without Domain Information**](https://openreview.net/forum?id=0jSSVPrfcX) 
+  <br /> Xiaoyu Tan\*, **Yong Lin**\*, Shengyu Zhu, Chao Qu, Xihe Qiu, Xu Yinghui, Peng Cui, Yuan Qi
+  <br /> *ICML 2023*
+
+- [**What Is Essential for Unseen Goal Generalization of Offline Goal-conditioned RL?**](https://arxiv.org/abs/2305.18882) 
+  <br />  Rui Yang, **Yong Lin**, Xiaoteng Ma, Hao Hu, Chongjie Zhang, Tong Zhang
+  <br /> *ICML 2023*
+  
 - [**ZeroGen: Self-Guided High-Quality Data Generation in Efficient Zero-Shot Learning**](https://arxiv.org/pdf/2205.12679.pdf)  (**SPOTLIGHT**)
   <br /> Jiahui Gao, Renjie Pi, **Yong Lin**, Hang Xu, Jiacheng Ye, Zhiyong Wu, Xiaodan Liang, Zhenguo Li, Lingpeng Kong
   <br /> *ICLR 2023* 
