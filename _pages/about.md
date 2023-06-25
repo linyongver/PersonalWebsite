@@ -17,6 +17,7 @@ My research is generously supported by [Apple AI/ML PhD fellowship](https://mach
 If you are interested in discussing / cooperating with me, you can contact me by Email. 
 
 # News
+* 2023.06, two papers were accepted by ICML 2022.
 * 2023.03, I am exited to be an awardee of [2023 Apple Scholars in AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023).
 * 2023.01, three papers were accepted by ICLR 2023, inlcuding two **SPOTLIGHT** papers.
 * 2022.10, I lunched a blog on Invariant Risk Minimization [here](https://zhuanlan.zhihu.com/p/567666715) (in Chinese).
@@ -26,6 +27,10 @@ If you are interested in discussing / cooperating with me, you can contact me by
 
 # Selected Publications/[Full Publication](https://linyongver.github.io/yonglin.github.io/publications/)
 (*\* denotes equal contribution*)
+
+- [**Provably Invariant Learning without Domain Information**](https://openreview.net/forum?id=0jSSVPrfcX) 
+  <br /> Xiaoyu Tan\*, **Yong Lin**\*, Shengyu Zhu, Chao Qu, Xihe Qiu, Xu Yinghui, Peng Cui, Yuan Qi
+  <br /> *ICML 2023*
 
 - [**A Holistic View of Noise Transition Matrix in Deep Learning and Beyond**](https://openreview.net/forum?id=aFzaXRImWE) (**SPOTLIGHT**)
   <br /> **Yong Lin**\*, Renjie Pi\*, Weizhong Zhang, Xiaobo Xia, Jiahui Gao, Xiao Zhou, Tongliang Liu, Bo Han
