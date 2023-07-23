@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-I am a third-year CSE PhD sudent in [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk), supervised by Professor [Tong Zhang](http://tongzhang-ml.org/). My research is generously supported by [Apple AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023) and [Hong Kong PhD fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html).
+I am a final year CSE PhD sudent in [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk), supervised by Professor [Tong Zhang](http://tongzhang-ml.org/). My research is generously supported by [Apple AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023) and [Hong Kong PhD fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html).
 
 I have primarily focused on developing robust AI models to address challenges related to the robustness of deep neural networks, including the out-of-distribution problem. I emphasize both theoretical grounding and empirical performance, employing techniques like sparsity, uncertainty estimation, invariance, and causality analysis. 
 
