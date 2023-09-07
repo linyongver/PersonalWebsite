@@ -14,7 +14,7 @@ I am a final year CSE PhD student in [The Hong Kong University of Science and Te
 
 Prior to my PhD studies, I worked as a Machine Learning Engineer at Alibaba (a prominent company similar to Amazon in China), where I witnessed the remarkable capabilities of machine learning while being aware of the inherent instability of deep models in industrial applications.
 
-During my primary PhD study, I focused on enhancing the robustness of deep models, particularly addressing the out-of-distribution (OOD) problem. I developed theoretically grounded methods with strong empirical results, incorporating techniques like sparsity, uncertainty estimation, invariance, and causality. Additionally, I contribute to the theoretical foundations of some OOD problems and methods.
+During my primary PhD study, I focused on enhancing the robustness of deep models, particularly addressing the out-of-distribution (OOD) problem. I developed theoretically grounded methods with strong empirical results, incorporating techniques like sparsity, uncertainty estimation, invariance, and causality. Additionally, I contribute to the theoretical foundations of some typical OOD problems and methods.
 
 Impressed by foundation models (FMs) like CLIP and GPT, I am currently exploring robust and efficient fine-tuning/pre-training methods for FMs.  This includes investigating methods to alleviate catastrophic forgetting during fine-tuning FM, effective sample selection for FMs training, and understanding and mitigating hallucinations in large language models (LLMs).
 
