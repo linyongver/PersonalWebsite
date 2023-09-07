@@ -33,7 +33,7 @@ If you are interested in talking about or working with me, please feel free to c
 
 ## Pre-prints
 - [**Optimal Sample Selection Through Uncertainty Estimation and Its Application in Deep Learning**](https://arxiv.org/abs/2309.02476)
- <br /> **Yong Lin**\*, **Chen Liu**\*, **Chenlu Ye**\*, Qing Lian, Yuan Yao, Tong Zhang
+ <br /> **Yong Lin**\*, Chen Liu\*, Chenlu Ye\*, Qing Lian, Yuan Yao, Tong Zhang
 
 - [**Active Prompting with Chain-of-Thought for Large Language Models**](https://arxiv.org/abs/2302.12246)
  <br /> Shizhe Diao, Pengcheng Wang, **Yong Lin**, Tong Zhang
