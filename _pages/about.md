@@ -32,7 +32,7 @@ If you are interested in talking about or working with me, please feel free to c
 (*\* denotes equal contribution*)
 
 ## Pre-prints
-- [**Optimal Sample Selection Through Uncertainty Estimation and Its Application in Deep Learning**]([https://arxiv.org/abs/2302.12246](https://arxiv.org/abs/2309.02476))
+- [**Optimal Sample Selection Through Uncertainty Estimation and Its Application in Deep Learning**](https://arxiv.org/abs/2309.02476)
  <br /> **Yong Lin**\*, **Chen Liu**\*, **Chenlu Ye**\*, Qing Lian, Yuan Yao, Tong Zhang
 
 - [**Active Prompting with Chain-of-Thought for Large Language Models**](https://arxiv.org/abs/2302.12246)
@@ -109,9 +109,9 @@ If you are interested in talking about or working with me, please feel free to c
 - **AntFinancial, Alibaba**
   <br />Employee, Data Scientist
   <br />2017 - 2022
-- **Zhejiang Univeristy**
+- **Zhejiang University**
   <br />Master of Engineering
   <br />*2013 - 2016*
-- **Zhejiang Univeristy**
+- **Zhejiang University**
   <br />Bachelor of Engineering(Ranking 1/207)
   <br />*2009 - 2013*
