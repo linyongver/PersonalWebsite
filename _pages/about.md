@@ -12,18 +12,18 @@ redirect_from:
 
 I am a final year CSE PhD student in [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk), supervised by Professor [Tong Zhang](http://tongzhang-ml.org/). My research is generously supported by [Apple AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023) and [Hong Kong PhD fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html).
 
-I have primarily focused on the robustness of deep neural networks, including the out-of-distribution problem. I emphasize both theoretical grounding and empirical performance, employing techniques like sparsity, uncertainty estimation, invariance, and causality analysis. 
+Prior to my PhD studies, I worked as a Machine Learning Engineer at Alibaba, where I witnessed the impressive capabilities of machine learning while being aware of the inherent instability of deep models in industrial applications.
 
-Recently, I have been particularly inspired by foundational models like CLIP and GPT, leading me to explore topics such as robust and efficient fine-tuning/pre-training.
+During my PhD, I focus on enhancing the robustness of deep models, particularly addressing the out-of-distribution (OOD) problem. My approach combines theoretical grounding and empirical techniques, including sparsity, uncertainty estimation, invariance, and causality. Additionally, I contribute to the theoretical foundations of popular OOD methods.
 
+Inspired by foundation models (FMs) like CLIP and GPT, my recent exploration revolves around robust and efficient fine-tuning/pre-training. This includes investigating methods to alleviate catastrophic forgetting during fine-tuning FM, effective sample selection for FMs training, and understanding and mitigating hallucinations in large language models (LLMs).
 
-If you are interested in talking about or working with me, please feel free to contact me by Email. 
+If you are interested in discussing or collaborating, please feel free to contact me via email. 
 
 # News
 * 2023.06, two papers were accepted by ICML 2023.
 * 2023.03, I am excited to be an awardee of [2023 Apple Scholars in AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023).
 * 2023.01, three papers were accepted by ICLR 2023, including two **SPOTLIGHT** papers.
-* 2022.10, I launched a blog on Invariant Risk Minimization [here](https://zhuanlan.zhihu.com/p/567666715) (in Chinese).
 * 2022.09, one paper was accepted by NeurIPS 2022 as a **SPOTLIGHT** presentation
 * 2022.05, three papers were accepted by ICML 2022
 * 2022.03, one paper was accepted by CVPR 2022 as a **ORAL** presentation
