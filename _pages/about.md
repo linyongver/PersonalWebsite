@@ -10,20 +10,20 @@ redirect_from:
 
 # About Me
 
-I am a final year CSE PhD sudent in [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk), supervised by Professor [Tong Zhang](http://tongzhang-ml.org/). My research is generously supported by [Apple AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023) and [Hong Kong PhD fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html).
+I am a final year CSE PhD student in [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk), supervised by Professor [Tong Zhang](http://tongzhang-ml.org/). My research is generously supported by [Apple AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023) and [Hong Kong PhD fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html).
 
 I have primarily focused on the robustness of deep neural networks, including the out-of-distribution problem. I emphasize both theoretical grounding and empirical performance, employing techniques like sparsity, uncertainty estimation, invariance, and causality analysis. 
 
 Recently, I have been particularly inspired by foundational models like CLIP and GPT, leading me to explore topics such as robust and efficient fine-tuning/pre-training.
 
 
-If you are interested in discussing / cooperating with me, you can contact me by Email. 
+If you are interested in talking about or working with me, please feel free to contact me by Email. 
 
 # News
 * 2023.06, two papers were accepted by ICML 2023.
-* 2023.03, I am exited to be an awardee of [2023 Apple Scholars in AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023).
-* 2023.01, three papers were accepted by ICLR 2023, inlcuding two **SPOTLIGHT** papers.
-* 2022.10, I lunched a blog on Invariant Risk Minimization [here](https://zhuanlan.zhihu.com/p/567666715) (in Chinese).
+* 2023.03, I am excited to be an awardee of [2023 Apple Scholars in AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023).
+* 2023.01, three papers were accepted by ICLR 2023, including two **SPOTLIGHT** papers.
+* 2022.10, I launched a blog on Invariant Risk Minimization [here](https://zhuanlan.zhihu.com/p/567666715) (in Chinese).
 * 2022.09, one paper was accepted by NeurIPS 2022 as a **SPOTLIGHT** presentation
 * 2022.05, three papers were accepted by ICML 2022
 * 2022.03, one paper was accepted by CVPR 2022 as a **ORAL** presentation
@@ -32,9 +32,11 @@ If you are interested in discussing / cooperating with me, you can contact me by
 (*\* denotes equal contribution*)
 
 ## Pre-prints
+- [**Optimal Sample Selection Through Uncertainty Estimation and Its Application in Deep Learning**]([https://arxiv.org/abs/2302.12246](https://arxiv.org/abs/2309.02476))
+ <br /> **Yong Lin**\*, **Chen Liu**\*, **Chenlu Ye**\*, Qing Lian, Yuan Yao, Tong Zhang
+
 - [**Active Prompting with Chain-of-Thought for Large Language Models**](https://arxiv.org/abs/2302.12246)
  <br /> Shizhe Diao, Pengcheng Wang, **Yong Lin**, Tong Zhang
- <br /> In Submission
 
 
 ## 2023
