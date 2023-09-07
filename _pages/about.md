@@ -12,11 +12,11 @@ redirect_from:
 
 I am a final year CSE PhD student in [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk), supervised by Professor [Tong Zhang](http://tongzhang-ml.org/). My research is generously supported by [Apple AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023) and [Hong Kong PhD fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html).
 
-Prior to my PhD studies, I worked as a Machine Learning Engineer at Alibaba, where I witnessed the impressive capabilities of machine learning while being aware of the inherent instability of deep models in industrial applications.
+Prior to my PhD studies, I worked as a Machine Learning Engineer at Alibaba (a prominent company similar to Amazon in China), where I witnessed the remarkable capabilities of machine learning while being aware of the inherent instability of deep models in industrial applications.
 
-During my PhD, I focus on enhancing the robustness of deep models, particularly addressing the out-of-distribution (OOD) problem. My approach combines theoretical grounding and empirical techniques, including sparsity, uncertainty estimation, invariance, and causality. Additionally, I contribute to the theoretical foundations of popular OOD methods.
+During my primary PhD study, I focused on enhancing the robustness of deep models, particularly addressing the out-of-distribution (OOD) problem. I developed theoretically grounded methods with strong empirical results, incorporating techniques like sparsity, uncertainty estimation, invariance, and causality. Additionally, I contribute to the theoretical foundations of some OOD problems and methods.
 
-Inspired by foundation models (FMs) like CLIP and GPT, my recent exploration revolves around robust and efficient fine-tuning/pre-training. This includes investigating methods to alleviate catastrophic forgetting during fine-tuning FM, effective sample selection for FMs training, and understanding and mitigating hallucinations in large language models (LLMs).
+Impressed by foundation models (FMs) like CLIP and GPT, I am currently exploring robust and efficient fine-tuning/pre-training methods for FMs.  This includes investigating methods to alleviate catastrophic forgetting during fine-tuning FM, effective sample selection for FMs training, and understanding and mitigating hallucinations in large language models (LLMs).
 
 If you are interested in discussing or collaborating, please feel free to contact me via email. 
 
