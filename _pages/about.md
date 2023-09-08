@@ -40,7 +40,7 @@ If you are interested in discussing or collaborating, please feel free to contac
  <br /> Shizhe Diao, Pengcheng Wang, **Yong Lin**, Tong Zhang
 
 - [**Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models**](https://linyongver.github.io/yonglin.github.io/)
-<br /> Coming soon
+<br /> --Coming soon--
 
 ## 2023
 - [**Black-box prompt learning for pre-trained language models**](https://arxiv.org/abs/2302.12246)
