@@ -39,7 +39,7 @@ If you are interested in discussing or collaborating, please feel free to contac
 - [**Active Prompting with Chain-of-Thought for Large Language Models**](https://arxiv.org/abs/2302.12246)
  <br /> Shizhe Diao, Pengcheng Wang, **Yong Lin**, Tong Zhang
 
-- [Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models](https://linyongver.github.io/yonglin.github.io/)
+- [**Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models**](https://linyongver.github.io/yonglin.github.io/)
 <br /> Coming soon
 
 ## 2023
