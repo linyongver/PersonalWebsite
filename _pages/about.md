@@ -39,8 +39,8 @@ If you are interested in discussing or collaborating, please feel free to contac
 - [**Active Prompting with Chain-of-Thought for Large Language Models**](https://arxiv.org/abs/2302.12246)
  <br /> Shizhe Diao, Pengcheng Wang, **Yong Lin**, Tong Zhang
 
-- [**Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models**](https://linyongver.github.io/yonglin.github.io/)
-<br /> --Coming soon--
+- [**Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models**](https://arxiv.org/pdf/2309.06256.pdf)
+<br /> **Yong Lin**\*, Lu Tan\*, Hangyu Lin\*, Zeming Zheng, Renjie Pi, Jipeng Zhang,Shizhe Diao, Haoxiang Wang, Han Zhao, Yuan Yao, Tong Zhang
 
 ## 2023
 - [**Black-box prompt learning for pre-trained language models**](https://arxiv.org/abs/2302.12246)
