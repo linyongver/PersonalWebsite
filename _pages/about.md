@@ -43,24 +43,18 @@ If you are interested in discussing or collaborating, please feel free to contac
 <br /> **Yong Lin**\*, Lu Tan\*, Hangyu Lin\*, Zeming Zheng, Renjie Pi, Jipeng Zhang, Shizhe Diao, Haoxiang Wang, Han Zhao, Yuan Yao, Tong Zhang
 
 ## 2023
-- [**Black-box prompt learning for pre-trained language models**](https://arxiv.org/abs/2302.12246)
-  <br /> Shizhe Diao, Zhichao Huang, Ruijia Xu, Xuechun Li, **Yong Lin**, Xiao Zhou, Tong Zhang
-  <br /> Transactions on Machine Learning Research (02/2023)
-  
+
+- [**Id and ood performance are sometimes inversely correlated on real-world datasets**](https://arxiv.org/pdf/2209.00613) (**SPOTLIGHT**)
+  <br /> Damien Teney, **Yong Lin**, Seong Joon Oh, Ehsan Abbasnejad
+  <br /> *NeurIPS 2023*
+
 - [**What Is Essential for Unseen Goal Generalization of Offline Goal-conditioned RL?**](https://arxiv.org/abs/2305.18882) 
   <br />  Rui Yang, **Yong Lin**, Xiaoteng Ma, Hao Hu, Chongjie Zhang, Tong Zhang
   <br /> *ICML 2023*
 
-- [**Provably Invariant Learning without Domain Information**](https://openreview.net/forum?id=0jSSVPrfcX) 
-  <br /> Xiaoyu Tan\*, **Yong Lin**\*, Shengyu Zhu, Chao Qu, Xihe Qiu, Xu Yinghui, Peng Cui, Yuan Qi
-  <br /> *ICML 2023*
   
 - [**A Holistic View of Noise Transition Matrix in Deep Learning and Beyond?**](https://openreview.net/forum?id=aFzaXRImWE) (**SPOTLIGHT**)
   <br /> **Yong Lin**\*, Renjie Pi\*, Weizhong Zhang, Xiaobo Xia, Jiahui Gao, Xiao Zhou, Tongliang Liu, Bo Han
-  <br /> *ICLR 2023*
-
-- [**Particle-based Variational Inference with Preconditioned Functional Gradient Flow**](https://openreview.net/forum?id=6OphWWAE3cS)
-  <br /> Hanze Dong, Xi Wang, **Yong Lin**, Tong Zhang
   <br /> *ICLR 2023*
   
 
