@@ -21,12 +21,11 @@ I am a final year CSE PhD student in [The Hong Kong University of Science and Te
 If you are interested in discussing or collaborating, please feel free to contact me via email. 
 
 # News
-* 2023.06, two papers were accepted by ICML 2023.
+* 2023.06, one paper was selected as a **SPOTLIGHT** presentation by NeurIPS 2023.
 * 2023.03, I am excited to be an awardee of [2023 Apple Scholars in AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023).
-* 2023.01, three papers were accepted by ICLR 2023, including two **SPOTLIGHT** papers.
-* 2022.09, one paper was accepted by NeurIPS 2022 as a **SPOTLIGHT** presentation
-* 2022.05, three papers were accepted by ICML 2022
-* 2022.03, one paper was accepted by CVPR 2022 as a **ORAL** presentation
+* 2023.01, two papers were selected as **SPOTLIGHT** presentations by  ICLR 2022.
+* 2022.09, one paper was selected as a **SPOTLIGHT** presentation by  NeurIPS 2022.
+* 2022.03, one paper was selected as a **ORAL** presentation  by CVPR 2022. 
 
 # Selected Publications
 (*\* denotes equal contribution*)
