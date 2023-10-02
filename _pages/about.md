@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
+# 1. About Me
 
 I am a final year CSE PhD student in [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk), supervised by Professor [Tong Zhang](http://tongzhang-ml.org/). My research is generously supported by [Apple AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023) and [Hong Kong PhD fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html).
 
@@ -20,10 +20,10 @@ I am a final year CSE PhD student in [The Hong Kong University of Science and Te
 
 
 
-# What new 
+# 2. What new? 
 
 ## Some exciting findings on OOD
-**Sprious feature diversification**: Contrary to the traditional belief that emphasizes the exclusive learning of invariant features for OOD, we found that incorporating diverse spurious features weakens their individual contributions, leading to improved overall OOD generalization performance.  Our findings reveal why model averaging,  model zoo, and feature concatenation are so effective. You can find a lot of new discoveries and results in the following manuscript:[[link](https://arxiv.org/pdf/2309.17230.pdf)]. 
+Contrary to the traditional belief that emphasizes the exclusive learning of invariant features for OOD, we found that incorporating diverse spurious features (referred as **spurious feature diversification**) weakens their individual contributions, leading to improved overall OOD generalization performance.  Our findings reveal why model averaging,  model zoo, and feature concatenation are so effective. You can find a lot of new discoveries and results in the following manuscript:[[link](https://arxiv.org/pdf/2309.17230.pdf)]. 
 
 Drop me an email (address: ylindf AT connect.ust.hk) if you have any comments, concerns or advice on this work. Or could discuss it with me through WeChat (account: linyongver).
 
@@ -34,7 +34,7 @@ Drop me an email (address: ylindf AT connect.ust.hk) if you have any comments, c
 * 2022.09, one paper was selected as a **SPOTLIGHT** presentation by  NeurIPS 2022.
 * 2022.03, one paper was selected as a **ORAL** presentation  by CVPR 2022. 
 
-# Selected Publications
+# 3. Selected Publications
 (*\* denotes equal contribution*)
 
 ## Pre-prints
