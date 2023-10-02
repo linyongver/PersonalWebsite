@@ -18,7 +18,8 @@ I am a final year CSE PhD student in [The Hong Kong University of Science and Te
 
 \[**Recent Research**\] Impressed by foundation models (FMs) like CLIP and GPT, I am currently exploring calibration, forgetting, and hallucinations in large language models (LLMs).  We found that these aspects are closely interconnected, all linked to OOD.
 
-If you are interested in discussing or collaborating, please feel free to contact me via email. 
+# Some exciting findings on OOD
+**Sprious feature diversification**[[link](https://arxiv.org/pdf/2309.17230.pdf)]: Contrary to the traditional belief that emphasizes the exclusive learning of invariant features for OOD, our findings suggest that incorporating diverse spurious features weakens their individual contributions, leading to improved overall OOD generalization performance. Through experiments on our MultiColorMNIST dataset, which contains multiple spurious features, we provide concrete evidence for the effectiveness of diverse spurious features.
 
 # News
 * 2023.09, one paper was selected as a **SPOTLIGHT** presentation by NeurIPS 2023.
@@ -31,15 +32,17 @@ If you are interested in discussing or collaborating, please feel free to contac
 (*\* denotes equal contribution*)
 
 ## Pre-prints
+- [**Spurious Feature Diversification Improves Out-of-distribution Generalization**](https://arxiv.org/pdf/2309.17230.pdf)
+ <br /> **Yong Lin**\*, Lu Tan\*, Yifan Hao\*, Honam Wong, Hanze Dong, Weizhong Zhang, Yujiu Yang, Tong Zhang
+
 - [**Optimal Sample Selection Through Uncertainty Estimation and Its Application in Deep Learning**](https://arxiv.org/abs/2309.02476)
  <br /> **Yong Lin**\*, Chen Liu\*, Chenlu Ye\*, Qing Lian, Yuan Yao, Tong Zhang
 
+- [**Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models**](https://arxiv.org/pdf/2309.06256.pdf)
+<br /> **Yong Lin**\*, Lu Tan\*, Hangyu Lin\*, Zeming Zheng, Renjie Pi, Jipeng Zhang, Shizhe Diao, Haoxiang Wang, Han Zhao, Yuan Yao, Tong Zhang
 
 - [**Active Prompting with Chain-of-Thought for Large Language Models**](https://arxiv.org/abs/2302.12246)
  <br /> Shizhe Diao, Pengcheng Wang, **Yong Lin**, Tong Zhang
-
-- [**Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models**](https://arxiv.org/pdf/2309.06256.pdf)
-<br /> **Yong Lin**\*, Lu Tan\*, Hangyu Lin\*, Zeming Zheng, Renjie Pi, Jipeng Zhang, Shizhe Diao, Haoxiang Wang, Han Zhao, Yuan Yao, Tong Zhang
 
 ## 2023
 
