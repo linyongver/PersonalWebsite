@@ -22,7 +22,7 @@ I am a final year CSE PhD student in [The Hong Kong University of Science and Te
 
 # 2. What new? 
 
-## Some exciting findings on OOD
+## Some exciting findings on OOD generalization
 Contrary to the traditional belief that emphasizes the exclusive learning of invariant features for OOD, we found that incorporating diverse spurious features (referred as **spurious feature diversification**) weakens their individual contributions, leading to improved overall OOD generalization performance.  Our findings reveal why model averaging,  model zoo, and feature concatenation are so effective. You can find a lot of new discoveries and results in the following manuscript:[[link](https://arxiv.org/pdf/2309.17230.pdf)]. 
 
 Drop me an email (address: ylindf AT connect.ust.hk) if you have any comments, concerns or advice on this work. Or could discuss it with me through WeChat (account: linyongver).
