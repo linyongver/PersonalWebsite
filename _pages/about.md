@@ -19,7 +19,7 @@ I am a final year CSE PhD student in [The Hong Kong University of Science and Te
 \[**Recent Research**\] Impressed by foundation models (FMs) like CLIP and GPT, I am currently exploring calibration, forgetting, and hallucinations in large language models (LLMs).  We found that these aspects are closely interconnected, all linked to OOD.
 
 ## Some exciting findings on OOD
-**Sprious feature diversification**[[link](https://arxiv.org/pdf/2309.17230.pdf)]: Contrary to the traditional belief that emphasizes the exclusive learning of invariant features for OOD, our findings suggest that incorporating diverse spurious features weakens their individual contributions, leading to improved overall OOD generalization performance. Through experiments on our MultiColorMNIST dataset, which contains multiple spurious features, we provide concrete evidence for the effectiveness of diverse spurious features.
+**Sprious feature diversification**[[link](https://arxiv.org/pdf/2309.17230.pdf)]: Contrary to the traditional belief that emphasizes the exclusive learning of invariant features for OOD, our findings [[link](https://arxiv.org/pdf/2309.17230.pdf)] suggest that incorporating diverse spurious features weakens their individual contributions, leading to improved overall OOD generalization performance. Through experiments on our MultiColorMNIST dataset, which contains multiple spurious features, we provide concrete evidence for the effectiveness of diverse spurious features.
 
 # News
 * 2023.09, one paper was selected as a **SPOTLIGHT** presentation by NeurIPS 2023.
