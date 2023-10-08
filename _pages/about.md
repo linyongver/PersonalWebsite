@@ -49,7 +49,7 @@ Drop me an email (address: ylindf[AT]connect.ust.hk) if you have any comments, c
 - [**Active Prompting with Chain-of-Thought for Large Language Models**](https://arxiv.org/abs/2302.12246)
  <br /> Shizhe Diao, Pengcheng Wang, **Yong Lin**, Tong Zhang
 
-## 2023
+## Conference and Journal Papers
 
 - [**Id and ood performance are sometimes inversely correlated on real-world datasets**](https://arxiv.org/pdf/2209.00613) (**SPOTLIGHT**)
   <br /> Damien Teney, **Yong Lin**, Seong Joon Oh, Ehsan Abbasnejad
@@ -64,9 +64,6 @@ Drop me an email (address: ylindf[AT]connect.ust.hk) if you have any comments, c
   <br /> **Yong Lin**\*, Renjie Pi\*, Weizhong Zhang, Xiaobo Xia, Jiahui Gao, Xiao Zhou, Tongliang Liu, Bo Han
   <br /> *ICLR 2023*
   
-
-
-## 2022
 - [**ZIN: When and How to Learn Invariance by Environment Inference?**](https://openreview.net/forum?id=pUPFRSxfACD) (**SPOTLIGHT**)
   <br /> **Yong Lin**, Shengyu Zhu, Lu Tan, Peng Cui
   <br /> NeurIPS 2022 [[code](https://github.com/linyongver/ZIN_official)]
@@ -86,14 +83,11 @@ Drop me an email (address: ylindf[AT]connect.ust.hk) if you have any comments, c
   <br /> Xiao Zhou, Renjie Pi, Weizhong Zhang, **Yong Lin**, Zonghao Chen, Tong Zhang
   <br /> ICML 2022
 
-
-
-##  2021 and before
-
 - [**An Empirical Study of Invariant Risk Minimization on Deep Models**](http://www.gatsby.ucl.ac.uk/~balaji/udl2021/accepted-papers/UDL2021-paper-044.pdf)
   <br /> **Yong Lin**\*, Qing Lian\* and Tong Zhang
   <br /> ICML2021 workshop on UDL (Uncertainty & Robustness in Deep Learning)
   <br /> [[code](https://github.com/IRMBed/IRMBed)]
+  
 - [**Cable sheath loss reduction strategy research based on the coupled linemodel**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7063235)
   <br /> **Yong Lin**, Zheng Xu
   <br /> IEEE Transactions On Power Delivery
