@@ -101,7 +101,7 @@ Drop me an email (address: ylindf[AT]connect.ust.hk) if you have any comments, c
 
 
 # 4. Selected Awards
-- [2023 Apple Scholars in AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023) Award (4 in Asia, 22 all over the world)
+- [2023 Apple Scholars in AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023) Award (22 awardees all over the world)
 - [Hong Kong PhD fellowship(HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html) Award
 - National Scholarship  * 3 (1.8%, by China’s Ministry of Education), 2010, 2011 and 2015
 - Outstanding Graduate of Zhejiang Province, 2013
