@@ -33,7 +33,7 @@ Contrary to the traditional belief that emphasizes the exclusive learning of inv
 
 Drop me an email (address: ylindf[AT]connect.ust.hk) if you have any comments, concerns or advice on this work. Or could discuss it with me through WeChat (account: linyongver).
 
-# 3. Selected Publications
+# 3. Selected Papers
 (*\* denotes equal contribution*)
 
 ## Pre-prints
@@ -49,7 +49,7 @@ Drop me an email (address: ylindf[AT]connect.ust.hk) if you have any comments, c
 - [**Active Prompting with Chain-of-Thought for Large Language Models**](https://arxiv.org/abs/2302.12246)
  <br /> Shizhe Diao, Pengcheng Wang, **Yong Lin**, Tong Zhang
 
-## Conference and Journal Papers
+## Published Papers
 
 - [**Id and ood performance are sometimes inversely correlated on real-world datasets**](https://arxiv.org/pdf/2209.00613) (**SPOTLIGHT**)
   <br /> Damien Teney, **Yong Lin**, Seong Joon Oh, Ehsan Abbasnejad
