@@ -20,7 +20,7 @@ I am a final year CSE PhD student in [The Hong Kong University of Science and Te
 
 
 
-# 2. What new? 
+# 2. What's new? 
 
 * 2023.09, one paper was selected as a **spotlight** presentation by NeurIPS 2023.
 * 2023.03, I am excited to be an awardee of [2023 Apple Scholars in AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023).
@@ -31,7 +31,7 @@ I am a final year CSE PhD student in [The Hong Kong University of Science and Te
 ### Some intriguing findings on OOD generalization
 Contrary to the traditional belief that emphasizes the exclusive learning of invariant features for OOD, we found that incorporating diverse spurious features (referred as **spurious feature diversification**) weakens their individual contributions, leading to improved overall OOD generalization performance.  Our findings reveal why model averaging,  model zoo, and feature concatenation are so effective. Check out the new discoveries and results in our [manuscript](https://arxiv.org/pdf/2309.17230.pdf). 
 
-Drop me an email (address: ylindf[AT]connect.ust.hk) if you have any comments, concerns or advice on this work. Or could discuss it with me through WeChat (account: linyongver).
+Drop me an email (address: ylindf[AT]connect.ust.hk) if you have any comments, concerns or advices on this work. Or could discuss it with me through WeChat (account: linyongver).
 
 # 3. Selected Papers
 (*\* denotes equal contribution*)
