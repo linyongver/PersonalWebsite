@@ -46,6 +46,10 @@ Drop me an email (address: ylindf[AT]connect.ust.hk) if you have any comments, c
 - [**Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models**](https://arxiv.org/pdf/2309.06256.pdf)
 <br /> **Yong Lin**\*, Lu Tan\*, Hangyu Lin\*, Zeming Zheng, Renjie Pi, Jipeng Zhang, Shizhe Diao, Haoxiang Wang, Han Zhao, Yuan Yao, Tong Zhang
 
+- [**R-tuning: Teaching large language models to refuse unknown questions**](https://arxiv.org/pdf/2311.09677.pdf)
+<br /> Hanning Zhang\*, Shizhe Diao\*, **Yong Lin**\*, Yi R. Fung, Qing Lian, Xingyao Wang, Yangyi Chen, Heng Ji, Tong Zhang
+
+
 - [**Active Prompting with Chain-of-Thought for Large Language Models**](https://arxiv.org/abs/2302.12246)
  <br /> Shizhe Diao, Pengcheng Wang, **Yong Lin**, Tong Zhang
 
