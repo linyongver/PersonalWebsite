@@ -16,7 +16,7 @@ I am a final year CSE PhD student in [The Hong Kong University of Science and Te
 
 \[**Primary PhD Research**\] During my primary PhD study, I focused on enhancing the robustness of deep models, particularly addressing the out-of-distribution (OOD) problem. I developed theoretically grounded methods with strong empirical results, incorporating techniques like sparsity, uncertainty estimation, invariance, and causality. Additionally, I contribute to the theoretical foundations of some typical OOD problems and methods.
 
-\[**Recent Research**\] Impressed by foundation models (FMs) like CLIP and GPT, I am currently exploring calibration, forgetting, and hallucinations in large language models (LLMs).  We found that these aspects are closely interconnected, all linked to OOD.
+\[**Recent Research**\] Impressed by foundation models (FMs) like CLIP and GPT, I am currently exploring RLHF, forgetting, and hallucinations in large language models (LLMs).  
 
 
 
