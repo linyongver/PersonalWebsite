@@ -32,8 +32,6 @@ I am a final year CSE PhD student in [The Hong Kong University of Science and Te
 (*\* denotes equal contribution*)
 
 ## Pre-prints
-- [**Spurious Feature Diversification Improves Out-of-distribution Generalization**](https://arxiv.org/pdf/2309.17230.pdf)
- <br /> **Yong Lin**\*, Lu Tan\*, Yifan Hao\*, Honam Wong, Hanze Dong, Weizhong Zhang, Yujiu Yang, Tong Zhang
 
 - [**Optimal Sample Selection Through Uncertainty Estimation and Its Application in Deep Learning**](https://arxiv.org/abs/2309.02476)
  <br /> **Yong Lin**\*, Chen Liu\*, Chenlu Ye\*, Qing Lian, Yuan Yao, Tong Zhang
@@ -49,6 +47,10 @@ I am a final year CSE PhD student in [The Hong Kong University of Science and Te
  <br /> Shizhe Diao, Pengcheng Wang, **Yong Lin**, Tong Zhang
 
 ## Published Papers
+- [**Spurious Feature Diversification Improves Out-of-distribution Generalization**](https://arxiv.org/pdf/2309.17230.pdf)
+ <br /> **Yong Lin**\*, Lu Tan\*, Yifan Hao\*, Honam Wong, Hanze Dong, Weizhong Zhang, Yujiu Yang, Tong Zhang
+ <br /> *ICLR 2024*
+
 
 - [**Id and ood performance are sometimes inversely correlated on real-world datasets**](https://arxiv.org/pdf/2209.00613) (**SPOTLIGHT**)
   <br /> Damien Teney, **Yong Lin**, Seong Joon Oh, Ehsan Abbasnejad
