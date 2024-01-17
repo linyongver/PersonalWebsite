@@ -43,9 +43,6 @@ I am a final year CSE PhD student in [The Hong Kong University of Science and Te
 <br /> Hanning Zhang\*, Shizhe Diao\*, **Yong Lin**\*, Yi R. Fung, Qing Lian, Xingyao Wang, Yangyi Chen, Heng Ji, Tong Zhang
 
 
-- [**Active Prompting with Chain-of-Thought for Large Language Models**](https://arxiv.org/abs/2302.12246)
- <br /> Shizhe Diao, Pengcheng Wang, **Yong Lin**, Tong Zhang
-
 ## Published Papers
 - [**Spurious Feature Diversification Improves Out-of-distribution Generalization**](https://arxiv.org/pdf/2309.17230.pdf)
  <br /> **Yong Lin**\*, Lu Tan\*, Yifan Hao\*, Honam Wong, Hanze Dong, Weizhong Zhang, Yujiu Yang, Tong Zhang
