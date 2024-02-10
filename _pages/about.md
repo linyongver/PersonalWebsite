@@ -37,7 +37,7 @@ I am a final year CSE PhD student in [The Hong Kong University of Science and Te
  <br /> **Yong Lin**\*, Chen Liu\*, Chenlu Ye\*, Qing Lian, Yuan Yao, Tong Zhang
  <br /> JMLR in submission
 
-- [**Mitigating the Alignment Tax of RLHF**](https://arxiv.org/pdf/2309.17230.pdf)
+- [**Mitigating the Alignment Tax of RLHF**](https://arxiv.org/pdf/2309.06256.pdf)
 <br /> **Yong Lin**\*, Hangyu Lin\*, Wei Xiong\*, Shizhe Diao\*, [+8 authors], Han Zhao , Nan Jiang, Heng Ji, Yuan Yao, and Tong Zhang
 
 - [**R-tuning: Teaching large language models to refuse unknown questions**](https://arxiv.org/pdf/2311.09677.pdf)
