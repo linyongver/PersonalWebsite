@@ -33,16 +33,15 @@ I am a final year CSE PhD student in [The Hong Kong University of Science and Te
 
 ## Pre-prints
 
-- [**Optimal Sample Selection Through Uncertainty Estimation and Its Application in Deep Learning**](https://arxiv.org/abs/2309.02476)
- <br /> **Yong Lin**\*, Chen Liu\*, Chenlu Ye\*, Qing Lian, Yuan Yao, Tong Zhang
- <br /> JMLR in submission
-
 - [**Mitigating the Alignment Tax of RLHF**](https://arxiv.org/pdf/2309.06256.pdf)
 <br /> **Yong Lin**\*, Hangyu Lin\*, Wei Xiong\*, Shizhe Diao\*, [+8 authors], Han Zhao , Nan Jiang, Heng Ji, Yuan Yao, and Tong Zhang
 
 - [**R-tuning: Teaching large language models to refuse unknown questions**](https://arxiv.org/pdf/2311.09677.pdf)
 <br /> Hanning Zhang\*, Shizhe Diao\*, **Yong Lin**\*, Yi R. Fung, Qing Lian, Xingyao Wang, Yangyi Chen, Heng Ji, Tong Zhang
 
+- [**Optimal Sample Selection Through Uncertainty Estimation and Its Application in Deep Learning**](https://arxiv.org/abs/2309.02476)
+ <br /> **Yong Lin**\*, Chen Liu\*, Chenlu Ye\*, Qing Lian, Yuan Yao, Tong Zhang
+ <br /> JMLR in submission
 
 ## Published Papers
 - [**Spurious Feature Diversification Improves Out-of-distribution Generalization**](https://arxiv.org/pdf/2309.17230.pdf)
